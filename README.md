@@ -15,8 +15,6 @@ O projeto foi feito durante o curso de aprendizagem de JAVA pela Udemy administr
 - Spring Boot
 - JPA / Hibernate
 - Maven
-## Implantação em produção
-- Back end: Heroku
 
 # Como executar o projeto
 
